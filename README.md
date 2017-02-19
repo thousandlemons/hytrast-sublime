@@ -1,4 +1,4 @@
-# Hytrast: A High-contrast Color Scheme for Sublime Text 3
+# Hytrast for Sublime Text 3: A High-contrast Color Scheme
 
 ## Features
 
